@@ -8,6 +8,5 @@ Credit card fraud is a major challenge in the financial industry. This project l
 - **Exploratory Data Analysis (EDA):** Visualizes trends, correlations, and anomalies.
 - **Model Training:** Includes Logistic Regression, Random Forest, Gradient Boosting, and Neural Networks.
 - **Model Evaluation:** Measures performance using metrics like precision, recall, F1-score, and AUC-ROC.
-- **Real-time Prediction API:** A REST API for predicting transaction fraud in real time.
 - **Deployment:** Deployed using Flask/FastAPI and Docker for scalability.
 
