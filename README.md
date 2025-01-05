@@ -11,18 +11,3 @@ Credit card fraud is a major challenge in the financial industry. This project l
 - **Real-time Prediction API:** A REST API for predicting transaction fraud in real time.
 - **Deployment:** Deployed using Flask/FastAPI and Docker for scalability.
 
----
-
-## 📂 Project Structure
-```plaintext
-.
-├── data/                  # Dataset files
-├── notebooks/             # Jupyter notebooks for EDA and model training
-├── src/                   # Source code
-│   ├── preprocessing.py   # Data preprocessing scripts
-│   ├── model.py           # Model training and evaluation
-│   ├── api.py             # Flask/FastAPI for deployment
-├── tests/                 # Unit tests for the project
-├── Dockerfile             # Docker configuration
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
